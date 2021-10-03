@@ -1,8 +1,7 @@
-# Veins VANET AODV Simulation
-The project uses OMNeT++, INET, Veins, and SUMO to create a VANET using the AODV routing protocol to test vulnerabilities in v2x communication.
+## This is a VANET simulation that uses OMNeT++, Veins, and the INET framework 
 
-![INSuRE_VANET_AODV](https://user-images.githubusercontent.com/45495586/134623932-b97758ec-800b-4c5d-88f5-8b7295c609bb.gif)
+![veins_inet](https://user-images.githubusercontent.com/22214754/135736530-4ca9e4b6-2eca-48b7-8767-83fea7fd1099.gif)
 
-## What is AODV?
+This project was built using Instant Veins 5.1-i2
+https://veins.car2x.org/download/
 
-An Ad Hoc On-Demand Distance Vector (AODV) is a routing protocol designed for wireless and mobile ad hoc networks. This protocol establishes routes to destinations on demand and supports both unicast and multicast routing.
