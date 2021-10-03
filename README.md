@@ -1,4 +1,4 @@
-# This is an OMNeT++ project that uses Veins and INET togeher
+## This is a VANET simulation that uses OMNeT++, Veins, and INET framework togeher
 
 ![veins_inet](https://user-images.githubusercontent.com/22214754/135736530-4ca9e4b6-2eca-48b7-8767-83fea7fd1099.gif)
 
